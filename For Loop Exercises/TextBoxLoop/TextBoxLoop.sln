@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxLoop", "TextBoxLoop\TextBoxLoop.csproj", "{DC1876A0-A9F9-400F-BB50-AEE0CDA9A9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1876A0-A9F9-400F-BB50-AEE0CDA9A9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1876A0-A9F9-400F-BB50-AEE0CDA9A9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1876A0-A9F9-400F-BB50-AEE0CDA9A9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1876A0-A9F9-400F-BB50-AEE0CDA9A9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E84D9B-F096-4FF2-A3F6-87140BFAF7FA}
+	EndGlobalSection
+EndGlobal
