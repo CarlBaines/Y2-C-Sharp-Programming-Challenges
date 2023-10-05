@@ -1,0 +1,1 @@
+Scenario: \nAt a factory making tinned food, a tin is taken from each batch to test its weight. Write a program that inputs the weight of a tin in kilogrammes. It should display the message “REJECT” if the weight is less than 1kg and “ACCEPT” otherwise. The program should ask if another tin is to be tested and if so, process it.
