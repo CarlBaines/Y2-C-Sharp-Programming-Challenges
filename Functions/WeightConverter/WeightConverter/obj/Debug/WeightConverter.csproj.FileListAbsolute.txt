@@ -1,0 +1,11 @@
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\bin\Debug\WeightConverter.exe.config
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\bin\Debug\WeightConverter.exe
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\bin\Debug\WeightConverter.pdb
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\obj\Debug\WeightConverter.csproj.AssemblyReference.cache
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\obj\Debug\WeightConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\obj\Debug\WeightConverter.Form1.resources
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\obj\Debug\WeightConverter.Properties.Resources.resources
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\obj\Debug\WeightConverter.csproj.GenerateResource.cache
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\obj\Debug\WeightConverter.csproj.CoreCompileInputs.cache
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\obj\Debug\WeightConverter.exe
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\WeightConverter\WeightConverter\obj\Debug\WeightConverter.pdb

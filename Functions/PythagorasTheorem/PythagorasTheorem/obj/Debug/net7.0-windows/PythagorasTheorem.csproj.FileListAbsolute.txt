@@ -1,0 +1,17 @@
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\bin\Debug\net7.0-windows\PythagorasTheorem.exe
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\bin\Debug\net7.0-windows\PythagorasTheorem.deps.json
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\bin\Debug\net7.0-windows\PythagorasTheorem.runtimeconfig.json
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\bin\Debug\net7.0-windows\PythagorasTheorem.dll
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\bin\Debug\net7.0-windows\PythagorasTheorem.pdb
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\PythagorasTheorem.csproj.AssemblyReference.cache
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\PythagorasTheorem.Form1.resources
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\PythagorasTheorem.csproj.GenerateResource.cache
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\PythagorasTheorem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\PythagorasTheorem.AssemblyInfoInputs.cache
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\PythagorasTheorem.AssemblyInfo.cs
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\PythagorasTheorem.csproj.CoreCompileInputs.cache
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\PythagorasTheorem.dll
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\refint\PythagorasTheorem.dll
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\PythagorasTheorem.pdb
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\PythagorasTheorem.genruntimeconfig.cache
+C:\Users\M2202766.MBRONET\OneDrive - Middlesbrough College\Documents\Year 2\Week 3\C#\PythagorasTheorem\PythagorasTheorem\obj\Debug\net7.0-windows\ref\PythagorasTheorem.dll
