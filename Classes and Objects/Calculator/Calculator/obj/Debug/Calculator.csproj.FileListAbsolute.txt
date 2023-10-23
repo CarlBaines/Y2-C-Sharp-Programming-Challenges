@@ -1,0 +1,11 @@
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\obj\Debug\Calculator.Calc.resources
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\M2202766\OneDrive - Middlesbrough College\Documents\Year 2\Week 5\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
