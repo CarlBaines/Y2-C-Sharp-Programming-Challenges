@@ -1,1 +1,2 @@
 Create an ATM class based on the class diagram below. For the purposes of testing assume the ATM will recognise only three cards with PIN numbers 1234, 5678 and 9101. A customer is allowed to withdraw up to £200 and may only withdraw if a correct PIN number is entered. Write code to simulate an ATM machine.
+![Image](https://raw.githubusercontent.com/CarlBaines/Y2-C-Sharp-Programming-Challenges/master/Classes%20and%20Objects/ATM%20Machine/ATMMachine/Images/Capture.PNG)
