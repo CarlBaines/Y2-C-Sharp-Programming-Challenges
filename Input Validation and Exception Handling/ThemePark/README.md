@@ -1,1 +1,1 @@
-
+A theme park manager needs to know if ticket sales are high or low. Write a program that allows the manager to enter the number of tickets sold. The program should calculate the value of the tickets sold at £10.99 each. If the total cost is over £40,000 the program should display the message “Ticket Sales are high”, otherwise it should display “Ticket Sales are low”.
